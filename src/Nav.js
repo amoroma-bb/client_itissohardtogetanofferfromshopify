@@ -12,7 +12,7 @@ const Nav = () => {
                     <Link to='/create'>Create Item</Link>
                 </li>
                 <li className="nav-item pr-3 pt-3 pb-3">
-                    <Link to='/shippment'>View All Shipment</Link>
+                    <Link to='/shippment'>View All Shippment</Link>
                 </li>
                 <li className="nav-item pr-3 pt-3 pb-3">
                     <Link to='/shippment/create'>Create A Shippment</Link>
