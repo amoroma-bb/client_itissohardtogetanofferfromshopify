@@ -45,6 +45,12 @@ function App() {
       <h1>
         Shopify 2022 Fall developer intern challenge
       </h1>
+      <p>
+        1. CRUD for inventory item
+        2. Create a shippment using two addresses and a label ID
+        3. Assign a item to a existing shippment using the unique label ID
+        4. The quantity of inventory will modify automically
+      </p>
 
       {
         inventories.map((inventory, i) => {
