@@ -41,7 +41,6 @@ function App() {
     <div className="container pb-5">
       <Nav />
       <br />
-      {/* {JSON.stringify(inventories)} */}
       <h1>
         Shopify 2022 Fall developer intern challenge
       </h1>
